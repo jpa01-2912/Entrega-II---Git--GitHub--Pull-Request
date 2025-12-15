@@ -20,3 +20,6 @@ Depende de para quien lo quiera usar:
 - Empresas: Para mejorar la eficiencia, seguridad y entrga de software a escala.
 
 - Projectos personales: Tiene una version gratuita para individuos y proyectos pequeños.
+# GitLab en Main
+
+GitLab es una plataforma para desarrollo colaborativo. Permite gestionar repositorios Git, proyectos y CI/CD, con un enfoque más empresarial.
